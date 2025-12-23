@@ -1,17 +1,7 @@
-# expense_tracker_android
+Project Title :# expense_tracker_android
+o Project Description :An App that is used to manage your expenses,and make all things in structure and also give analysis of your all expenses 
+o Team Member Names:-BHUPENDRA(23EE2421017) , MANISH KUMAR(23EE2421043) 
+o Deployment Link (if any) : https://drive.google.com/drive/u/0/folders/1AlTGP1hN3Q49MiAI9B4e01rpL-aRuDQ5
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# expense-tracker-android" 
+ 
