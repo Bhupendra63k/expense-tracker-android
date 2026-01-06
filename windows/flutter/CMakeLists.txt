@@ -1,4 +1,4 @@
-# This file controls Flutter-level build steps. It should not be edite
+# This file controls Flutter-level build ste
 cmake_minimum_required(VERSION 3.14)
 
 set(EPHEMERAL_DIR "${CMAKE_CURRENT_SOURCE_DIR}/ephemeral")
